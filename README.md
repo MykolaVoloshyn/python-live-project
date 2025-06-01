@@ -137,9 +137,11 @@ class AddEventForm(forms.ModelForm):
 
 <img src="./media-files/story2.png"  width="100%" height="100%"/>
 
-<br/>
-
 Finally, I tested the form to make sure that the submitted data was correctly saved to the database.
+
+---
+
+_Jump To: [Introduction](#introduction), [Basic App Structure](#basic-app-structure), [Display All Items](#display-all-items), [Edit And Delete Functions](#edit-and-delete-functions), [Parse JSON](#parse-json), [Front-End Improvements](#front-end-improvements), [Save API Results](#save-api-results), [Key Learnings](#key-learnings)_
 
 ---
 
@@ -268,6 +270,10 @@ def delete_event(request, pk):
 ```
 
 <img src="./media-files/story5.gif"  width="100%" height="100%"/>
+
+---
+
+_Jump To: [Introduction](#introduction), [Basic App Structure](#basic-app-structure), [Display All Items](#display-all-items), [Edit And Delete Functions](#edit-and-delete-functions), [Parse JSON](#parse-json), [Front-End Improvements](#front-end-improvements), [Save API Results](#save-api-results), [Key Learnings](#key-learnings)_
 
 ---
 
@@ -470,6 +476,10 @@ def show_blog(request):
 
 ---
 
+_Jump To: [Introduction](#introduction), [Basic App Structure](#basic-app-structure), [Display All Items](#display-all-items), [Edit And Delete Functions](#edit-and-delete-functions), [Parse JSON](#parse-json), [Front-End Improvements](#front-end-improvements), [Save API Results](#save-api-results), [Key Learnings](#key-learnings)_
+
+---
+
 ### Front-End Improvements
 
 At this step, I worked on improving the UX/UI design to make the app more user-friendly and visually appealing. I slightly changed the structure of some HTML files and added a few animations using the jQuery library. I also adjusted font sizes, margins, paddings, and added background styles with CSS to improve overall layout and readability.
@@ -582,3 +592,9 @@ Evently is a full-featured event discovery platform that integrates real-time da
 -   **Debugging & Problem Solving:** Throughout the project, I developed ability to troubleshoot errors, read error messages carefully, and find creative solutions when things didn’t work as expected.
 -   **Version Control & DevOps Tools:** I became more confident using Git and GitHub to track changes and manage code collaboratively. I also gained hands-on experience with Azure DevOps for organizing tasks, managing sprints, and collaborating with teammates in a structured development workflow.
 -   **Research & Self-Learning:** When I faced unfamiliar tasks or bugs, I actively researched documentation and online resources to find solutions, improving my ability to learn independently and quickly.
+
+---
+
+_Jump To: [Introduction](#introduction), [Basic App Structure](#basic-app-structure), [Display All Items](#display-all-items), [Edit And Delete Functions](#edit-and-delete-functions), [Parse JSON](#parse-json), [Front-End Improvements](#front-end-improvements), [Save API Results](#save-api-results), [Key Learnings](#key-learnings)_
+
+---
