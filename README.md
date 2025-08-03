@@ -17,7 +17,7 @@ This application was developed as part of a two-week apprenticeship sprint for P
     -   [Ticketmaster Discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/) (event search)
     -   [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript) (location display)
 -   **Libraries**: BeautifulSoup (web scraping)
--   **Version Control & Project Management**: Git, GitHub, Azure DevOps
+-   **Version Control & Project Management**: Git, Azure DevOps
 
 ## Key Features
 
