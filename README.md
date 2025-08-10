@@ -590,7 +590,7 @@ Evently is a full-featured event discovery platform that integrates real-time da
 -   **API Integration:** I learned how to work with external APIs, send GET requests dynamically adding additional parameters, handle JSON responses, and use the data to display dynamic content and improve the functionality of the app.
 -   **Web Scraping:** I used BeautifulSoup to scrape useful information from external website, extract the needed data, and integrate it into my app to enhance its content and user experience.
 -   **Debugging & Problem Solving:** Throughout the project, I developed ability to troubleshoot errors, read error messages carefully, and find creative solutions when things didn’t work as expected.
--   **Version Control & DevOps Tools:** I became more confident using Git and GitHub to track changes and manage code collaboratively. I also gained hands-on experience with Azure DevOps for organizing tasks, managing sprints, and collaborating with teammates in a structured development workflow.
+-   **Version Control & DevOps Tools:** I became more confident using Git to track changes and manage code collaboratively. I also gained hands-on experience with Azure DevOps for organizing tasks, managing sprints, and collaborating with teammates in a structured development workflow.
 -   **Research & Self-Learning:** When I faced unfamiliar tasks or bugs, I actively researched documentation and online resources to find solutions, improving my ability to learn independently and quickly.
 
 ---
